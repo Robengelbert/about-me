@@ -1,6 +1,13 @@
-#head{
+header{
 	background-color: darkblue;
 }
 h1{
-	color: orange;
+	color: white;
+}
+
+ul{
+	list-style-type: none;
+}
+footer{
+	backgroun-color: darkblue;
 }

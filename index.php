@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>about-me</title>
-		<link href="css/style.css" type="text/css">
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 	</head>
 	<body>
 		<div id="head">
