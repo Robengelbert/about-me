@@ -29,7 +29,7 @@
 				<li>Tulsa,Ok</li>
 				<li>Denver,Co</li>
 				<li>Colorado Springs,Co</li>
-				<li>Fayettville,Ar</li>
+				<li>Fayetteville,Ar</li>
 				<li>Albuquerque,Nm</li>
 			</ul>
 			<h2>Things I want to do</h2>
