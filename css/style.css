@@ -1,5 +1,9 @@
-header{
-	background-color: darkblue;
+
+
+#head{
+	background-color: blue;
+	text-align: center;
+	height:100%;
 }
 h1{
 	color: white;
@@ -8,6 +12,12 @@ h1{
 ul{
 	list-style-type: none;
 }
-footer{
-	backgroun-color: darkblue;
+#foot{
+	background-color: blue;
+	height: 100%
+}
+.wrapper{
+	background-color: aliceblue;
+	text-align: center;
+	height: 100%
 }
