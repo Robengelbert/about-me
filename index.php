@@ -36,7 +36,7 @@
 			<img src="images/oregon.jpe" alt="The Oregon Pacific coast" />
 			<p>I want to do many thing's, here are a few:</p>
 			<ul>
-				<li>Ride the divide</li>
+				<li><a href="http://www.tourdivide.com/" target="_blank">Ride the divide</a></li>
 				<li>Go to Alaska</li>
 				<li>Tour the west coast</li>
 				<li>Watch my kids grow</li>
