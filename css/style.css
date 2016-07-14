@@ -1,4 +1,6 @@
-
+html{
+	background-color: aliceblue;
+}
 
 #head{
 	background-color: blue;
@@ -17,7 +19,6 @@ ul{
 	height: 100%
 }
 .wrapper{
-	background-color: aliceblue;
 	text-align: center;
 	height: 100%
 }
